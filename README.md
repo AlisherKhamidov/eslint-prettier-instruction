@@ -200,8 +200,8 @@ npm i -D @typescript-eslint/eslint-plugin@^5.13.0 @typescript-eslint/parser@^5.0
 
 7. Теперь обновим соответвующие команды скриптов в ``package.json`` на:
 ```
-"lint": "tsc --noEmit && eslint src/**/\*.ts{,x} --cache --max-warnings=0",
-"lint:fix": "eslint src/**/\*.ts{,x} --fix",
+"lint": "tsc --noEmit && eslint src/**/*.ts{,x} --cache --max-warnings=0",
+"lint:fix": "eslint src/**/*.ts{,x} --fix",
 ```
 Скрипты после изменения выглядят примерно вот так:
 ```
