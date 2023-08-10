@@ -42,7 +42,7 @@ npx degit reduxjs/redux-templates/packages/vite-template-redux my-app
 "@testing-library/user-event": "^14.2.5",
 "@types/react": "^18.0.15",
 "@types/react-dom": "^18.0.6",
-"@types/testing-library\_\_jest-dom": "^5.14.5",
+"@types/testing-library__jest-dom": "^5.14.5",
 "@vitejs/plugin-react": "^4.0.0",
 "jsdom": "^21.1.0",
 "typescript": "^5.0.2",
