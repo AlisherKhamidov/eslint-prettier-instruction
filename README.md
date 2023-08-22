@@ -195,7 +195,6 @@ npm i -D @typescript-eslint/eslint-plugin@^5.13.0 @typescript-eslint/parser@^5.0
 "object-shorthand": "error",
 "no-console": "warn",
 "@typescript-eslint/no-floating-promises": "off",
-"@typescript-eslint/no-floating-promises": "off",
 		"@typescript-eslint/no-misused-promises": "off",
 		"@typescript-eslint/no-unsafe-return": "off",
 		"@typescript-eslint/no-unsafe-assignment": "off",
