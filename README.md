@@ -170,7 +170,7 @@ npm i -D @typescript-eslint/eslint-plugin@^5.13.0 @typescript-eslint/parser@^5.0
 "prettier/prettier": [
 "error",
 {
-"printWidth": 80,
+"printWidth": 100,
 "endOfLine": "lf",
 "singleQuote": true,
 "tabWidth": 2,
@@ -260,7 +260,7 @@ npm i -D @typescript-eslint/eslint-plugin@^5.13.0 @typescript-eslint/parser@^5.0
     "prettier.singleQuote": true,
     "prettier.useTabs": true,
     "prettier.tabWidth": 2,
-    "prettier.printWidth": 80,
+    "prettier.printWidth": 100,
     "editor.tabSize": 2,
     "editor.codeActionsOnSave": [
         "source.formatDocument",
